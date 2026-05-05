@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated dataset and manuscript."
+title: "Brazilian federal environmental infraction records linked to firm industry classification 1981 to 2025"
+type: software
+authors:
+  - family-names: "Cruz Neto"
+    given-names: "Claudiano Carneiro da"
+    email: "cneto@ufrb.edu.br"
+  - family-names: "Silva"
+    given-names: "Leila Bispo da"
+repository-code: "https://github.com/cruz-neto/DataPaper"
+url: "https://github.com/cruz-neto/DataPaper"
+date-released: "2026-04-14"
+version: "1.0"
+doi: "10.5281/zenodo.19574343"
+license: "MIT"
+preferred-citation:
+  type: dataset
+  title: "Brazilian federal environmental infraction records linked to firm industry classification 1981 to 2025"
+  authors:
+    - family-names: "Cruz Neto"
+      given-names: "Claudiano Carneiro da"
+      email: "cneto@ufrb.edu.br"
+    - family-names: "Silva"
+      given-names: "Leila Bispo da"
+  doi: "10.5281/zenodo.19574343"
+  date-released: "2026-04-14"
+  version: "1.0"
